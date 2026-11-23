@@ -1,0 +1,8 @@
+{
+  "name": "Vespera Wellness",
+  "description": "Personal biometric recovery, sleep architecture, vitals, and daily activity monitor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
